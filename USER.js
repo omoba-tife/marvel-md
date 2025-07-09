@@ -1,6 +1,6 @@
 const pairNumber = "2348135483096";
 
-const accNumber = "**********";
+const accNumber = "8135483096";
 
 const name = "Tife";
 
